@@ -7,6 +7,12 @@ My goal for the project was to demonstrate that there is value to be had in scra
 
 That's pretty linear! 
 
+## Cronometer
+[cronometer](https://cronometer.com/) is a great site for tracking calories, exercise, macro and micro nutrients, weight etc. My goal was to hit 100% of the US recommended daily allowance of all the vitamins and minerals in addition to trying to hit a daily caloric deficit of at least 100 calories. The estimates of calories burned each day is not very precise so I tried to err on the side of underestimating the calories I burned and overestimating what I ate each day. As a result, the caloric deficit functions as more of a signal than a precise measurement. But the process worked, so I am happy :)
+
+![image](https://github.com/PythonCB/DietChallenge/assets/106499531/7c46a437-c3fc-43ac-8c02-e6359d2b3234)
+
+
 ## Files
 
 ### get_data.ipynb
