@@ -1,5 +1,5 @@
 # DietChallenge
-In this project I scrape data from cronometer.com and analyze it. From April 1st 2021 to August 14th 2021 I tracked everything I ate, my daily weight, and my exercise on cronometer. I always wondered what I could learn if I could scrape that data and analyze it. So for this project I used python to scrape the data and analyze it. All the code is contained in notebooks. I learned Python from Data Science courses using Jupyter Notebooks, so that's what I'm most comfortable with.
+In this project I scrape data from cronometer.com and analyze it. From April 1st 2021 to August 14th 2021 I tracked everything I ate, my daily weight, and my exercise on cronometer. I always wondered what I could learn if I could scrape that data and analyze it. All the code is in Python. I used Selenium to log into and navigate cronometer and Pandas for the scraping and data analysis.
 
 ## Files
 
