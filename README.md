@@ -1,5 +1,11 @@
 # DietChallenge
-In this project I scrape data from cronometer.com and analyze it. From April 1st 2021 to August 14th 2021 I tracked everything I ate, my daily weight, and my exercise on cronometer. I always wondered what I could learn if I could scrape that data and analyze it. All the code is in Python. I used Selenium to log into and navigate cronometer and Pandas for the scraping and data analysis.
+In this project I scrape data from cronometer.com and analyze it. From April 1st 2021 to August 14th 2021 I tracked everything I ate, my daily weight, and my exercise on cronometer. I always wondered what I could learn if I could scrape that data and analyze it. All the code is in Python. I used Selenium to log into and navigate cronometer and Pandas for the scraping and data analysis. I wrote an article about the code and what I learned from analyzing the data which can be found [here](https://blog.finxter.com/how-i-scraped-my-nutrition-data-from-cronometer-com/)
+
+My goal for the project was to demonstrate that there is value to be had in scraping and analyzing data relating to a personal goal. I'd say it was a success. I lost over 20 pounds slowly and safely. What I found most interesting about the data is just how linear the weight loss was over the long run. From day to day the weight loss seemed to be almost random. I could do everything right on some days and gain a pound the next morning. But it averaged out in the long run.
+
+![image](https://github.com/PythonCB/DietChallenge/assets/106499531/da1c48d8-b7ed-4b4e-b90b-435613a07f2c)
+
+That's pretty linear! 
 
 ## Files
 
